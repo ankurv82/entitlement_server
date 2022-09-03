@@ -1,0 +1,7 @@
+flask
+requests
+pytest
+pytest-mock
+Mocker
+mock
+json2html
